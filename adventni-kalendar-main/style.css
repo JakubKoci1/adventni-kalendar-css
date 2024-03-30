@@ -1,0 +1,15 @@
+.mainLink {
+    border: 2px solid black;
+    border-radius: 3px;
+    background-color: blanchedalmond;
+    color: gray;
+}
+body {
+    background-color: crimson;
+}
+h1 {
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 1px;
+    background-color: bisque;
+}
